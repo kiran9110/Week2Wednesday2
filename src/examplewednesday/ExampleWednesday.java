@@ -15,7 +15,7 @@ public class ExampleWednesday {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello worlds");
+        System.out.println("Learning pull operation");
         // TODO code application logic here
     }
     
